@@ -19,3 +19,4 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+![BlackJack Game](https://github.com/Siddesh42/BlackJack-Game/assets/134169184/89823b44-1135-49ed-8f99-6f970b843b6e)
